@@ -1,0 +1,32 @@
+{
+  "name": "fbapi",
+  "version": "0.0.1",
+  "description": "Facebook Graph API for Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/djelic/node-facebook.git"
+  },
+  "keywords": [
+    "facebook",
+    "graph",
+    "api"
+  ],
+  "author": "David Jelic",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/djelic/node-facebook/issues"
+  },
+  "homepage": "https://github.com/djelic/node-facebook#readme",
+  "dependencies": {
+    "got": "^6.1.2",
+    "xtend": "^4.0.1"
+  },
+  "devDependencies": {
+    "mocha": "^2.4.5",
+    "should": "^8.2.2"
+  }
+}

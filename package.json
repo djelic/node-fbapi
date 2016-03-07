@@ -2,7 +2,7 @@
   "name": "fbapi",
   "version": "0.0.1",
   "description": "Facebook Graph API for Node.js",
-  "main": "index.js",
+  "main": "lib/fbapi.js",
   "scripts": {
     "test": "./node_modules/.bin/mocha"
   },

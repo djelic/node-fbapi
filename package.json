@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/djelic/node-facebook#readme",
   "dependencies": {
-    "got": "^6.1.2",
+    "got": "^9.3.0",
     "xtend": "^4.0.1"
   },
   "devDependencies": {
